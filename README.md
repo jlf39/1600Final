@@ -29,8 +29,8 @@
 <br/>
 
 ## What does Markdown look like?
-### A heading in HTML would look like this without the quotes: <"h1">Heading<"/h1">
-### While the same format in markdown would like this without the quotes: "#"Heading
+### A heading in HTML would look like this: `<h1>Heading</h1>`
+### While the same format in markdown would like this: `# Heading`
 <br/>
 <br/>
 

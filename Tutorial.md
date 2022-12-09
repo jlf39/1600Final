@@ -24,12 +24,12 @@
 <br/>
 
 ## Step 5
-### You may notice the line you just enetered hasn't shown up on github. To make it show on github we need to enter some commands in the terminal. Click on the terminal button in the upper left area of vscode. click "New terminal". Now select in the terminal and type `git add .` This will add all your existing files to the "queue" to be committed. Next type `git commit -m "Message describing the changes"`. Finally type `git push origin main`. This will push your changes onto github. Click on your READ.md file on github. Here you can see the line "Hello World" is formatted using Markdown. You do not see the "#" rather the text appears as a heading. You can also click the "Raw" button to see the text you originally entered on vscode.
+### You may notice the line you just enetered hasn't shown up on github. To make it show on github we need to enter some commands in the terminal. Click on the terminal button in the upper left area of vscode. click "New terminal". Now select in the terminal and type `git add .` This will add all your existing files to the "queue" to be committed. Next type `git commit -m "Message describing the changes"`. Finally type `git push origin main`. This will push your changes onto github. Click on your READ.md file on github. Here you can see the line "Hello World" is formatted using Markdown. You do not see the "#" instead the text appears as a heading. You can also click the "Raw" button to see the text you originally entered on vscode.
 <br/>
 <br/>
 
 ## Step 6
-### Congratulations you now know how to create a page on github using Markdown and vscode and make changes to it. Markdown has formatting options for most things you need to do. You can now revisit your vscode project and add more contents for it and format it however you want. Below is a short list of some Markdown syntax and what it does.
+### Congratulations you now know how to create a page on github using Markdown and vscode and make changes to it. Markdown has formatting options for most things you need to do. You can now revisit your vscode project and add more contents to it and format it however you want. Below is a short list of some Markdown syntax and what it does.
 <br/>
 <br/>
 
