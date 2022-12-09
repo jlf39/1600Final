@@ -35,14 +35,14 @@
 
 | Format      | Markdown |
 | ----------- | ----------- |
-| Heading 1     | # H1       |
-| Heading 2   | # H2        |
-| Heading 3   | # H3        |
-| Bold   | ** text **      |
-| Italicized   | * text *        |
-| Blockquote   | > text       |
-| list (unordered)   | - text       |
-| list (ordered)   | 1. text         |
+| Heading 1     | `# H1`       |
+| Heading 2   | `# H2`        |
+| Heading 3   | `# H3 `       |
+| Bold   | `**text**`      |
+| Italicized   | `*text*`        |
+| Blockquote   | `> text`       |
+| list (unordered)   | `- text`       |
+| list (ordered)   | `1. text`         |
 <br/>
 <br/>
 
